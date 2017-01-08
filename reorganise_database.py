@@ -1,6 +1,5 @@
 import os
 
-<<<<<<< HEAD
 baaproot = "/home/aman/Desktop/PaperDownloader/QuestionPapers"
 for file in sorted(os.listdir(baaproot)):
 	root  =  baaproot + "/" + file
