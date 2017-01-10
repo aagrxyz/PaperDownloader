@@ -1,4 +1,3 @@
-
 def parseEntryNo(entryno):
 	year = int(entryno[:4])
 	dept = entryno[4:7]

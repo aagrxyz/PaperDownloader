@@ -1,7 +1,7 @@
 import os
 import json
 import shutil
-entry ='2013cs10224'
+entry ='2015cs10210'
 baaproot = "/home/aman/Desktop/PaperDownloader/QuestionPapers"
 output_home_dir = "/home/aman/Desktop/PaperDownloader/output"
 output_dir = output_home_dir + "/" + entry.upper()
